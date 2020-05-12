@@ -8,7 +8,7 @@
 >     * ... by module. Perhaps you like to organize your notes with one folder per module, keeping track of what you have learned in the order you learned it.
 >     * ... by project. Or do you like to organize the skills you learn by the project you were working on when you learned them>
 >     * There is no wrong way to organize you notes as long as they help you learn.
-> 1. Create a first [user-owned project board](https://github.com/abelRoland/hack-my-future/projects/1) called __learnables__.  Here's a suggestion for what columns to use:
+> 1. Create a first [user-owned project board](https://github.com/users/abelRoland/projects/1) called __learnables__.  Here's a suggestion for what columns to use:
 >     1. __Unclear__: things you want to learn at some point, but don't yet have much understanding of
 >     1. __Basic Understanding__: Things you already kind of understand but aren't comfortable doing
 >     1. __Currently Studying__: The things you are actively learning and practicing. There should never be more than ~5-6 cards in this column, if there are you should take some time to refocus your learning
@@ -25,7 +25,7 @@
 
 ### Working with Code
 * [Markdown Home Page](https://abelroland.github.io/)
-* [My bio on the class repo](./bioAbel.md)
-* [Hack My Future](./README.md)
+* [My bio on the class repo](https://github.com/HackYourFutureBelgium/class-9-10/blob/master/student-bios/abelRoland.md)
+* [Hack My Future](https://github.com/abelRoland/hack-my-future)
 
 ### Incremental Development
